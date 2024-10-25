@@ -1,0 +1,3 @@
+/content/drive/MyDrive/Raytracer/build/CMakeFiles/main.dir
+/content/drive/MyDrive/Raytracer/build/CMakeFiles/edit_cache.dir
+/content/drive/MyDrive/Raytracer/build/CMakeFiles/rebuild_cache.dir
